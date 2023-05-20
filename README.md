@@ -1,6 +1,6 @@
 # About me
 
-Hi, I'm Lucy Dantas or `lucyd`.
+Hi, I'm Lucy Diniz or `lucyd`.
 
 ## Other information
  - Languages: English, Portuguese and Spanish
